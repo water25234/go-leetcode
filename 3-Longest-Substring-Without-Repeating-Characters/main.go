@@ -1,19 +1,4 @@
-package main
-
-import (
-	"fmt"
-)
-
-func main() {
-
-	var tokens string
-
-	tokens = "bbbbb"
-	// tokens = "pwwkew"
-	// tokens = "abcabcbb"
-
-	fmt.Println(lengthOfLongestSubstring(tokens))
-}
+package longestsubstringwithoutrepeatingcharacters
 
 func lengthOfLongestSubstring(s string) int {
 	var ans, left, right, strLength int
@@ -36,6 +21,5 @@ func lengthOfLongestSubstring(s string) int {
 			left++
 		}
 	}
-	fmt.Println(dicts)
 	return ans
 }
