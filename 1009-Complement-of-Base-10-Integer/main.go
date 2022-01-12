@@ -8,5 +8,5 @@ func bitwiseComplement(n int) int {
 
 	// fmt.Println(p, strconv.FormatInt(int64(p), 2))
 	// fmt.Println(n, strconv.FormatInt(int64(n), 2))
-	return (p ^ n)
+	return (p ^ n) // p (XOR) n
 }
