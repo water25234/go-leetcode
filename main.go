@@ -33,16 +33,33 @@ func NewNode(val int) *Node {
 }
 
 func main() {
-	n := NewNode(1)
-	n.Append(2)
-	n.Append(3)
-	n.Append(4)
-	n.Append(5)
 
-	m := Remove(n, 3)
+	var num byte
 
-	for m != nil {
-		fmt.Println(m.Val)
-		m = m.Next
-	}
+	num = '1'
+
+	fmt.Println(num)
+
+	num = '0'
+
+	fmt.Println(num)
+
+	num = '*'
+
+	fmt.Println(num)
+
+	fmt.Println('22')
+
+	// n := NewNode(1)
+	// n.Append(2)
+	// n.Append(3)
+	// n.Append(4)
+	// n.Append(5)
+
+	// m := Remove(n, 3)
+
+	// for m != nil {
+	// 	fmt.Println(m.Val)
+	// 	m = m.Next
+	// }
 }
