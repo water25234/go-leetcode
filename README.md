@@ -10,6 +10,7 @@
 - 2 Add Two Numbers By Linked List
 - 3 Longest Substring Without Repeating Characters
 - 19 Remove Nth Node From End of List
+- 33 Search in Rotated Sorted Array
 - 81 Search In Rotated Sorted Array II
 - 133 Clone Graph
 - 134 Gas Station

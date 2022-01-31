@@ -1,6 +1,4 @@
-package main
-
-import "fmt"
+package searchinrotatedsortedarray
 
 func search(nums []int, target int) int {
 	var low, mid, high int
@@ -39,14 +37,4 @@ func search(nums []int, target int) int {
 	}
 
 	return -1
-}
-
-func main() {
-	var nums []int
-	var target int
-
-	nums = []int{4, 1, 7, 3, 6, 8, 5, 2, 0, 9}
-	target = 0
-
-	fmt.Println(search(nums, target))
 }
