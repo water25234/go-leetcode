@@ -4,6 +4,7 @@
 - 1 Two Sum By Array
 - 21 Merge Two Sorted Lists
 - 141 Linked List Cycle
+- 700 Search in a Binary Search Tree
 - 1009 Complement of Base 10 Integer
 
 ## Medium
