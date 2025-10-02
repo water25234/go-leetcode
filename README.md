@@ -18,6 +18,7 @@
 - 150 Evaluate Reverse Polish Notation
 - 152 Maximum Product Subarray
 - 200 Number of Islands
+- 450 Delete Node in a BST
 - 1497 Check If Array Pairs Are Divisible by k
 - 1589 Maximum Sum Obtained of Any Permutation
 
