@@ -6,6 +6,7 @@
 - 104 Maximum Depth of Binary Tree
 - 141 Linked List Cycle
 - 700 Search in a Binary Search Tree
+- 872 Leaf-Similar Trees
 - 1009 Complement of Base 10 Integer
 
 ## Medium
