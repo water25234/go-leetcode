@@ -24,3 +24,6 @@ func removeNthFromEnd(head *ListNode, n int) *ListNode {
 		return head
 	}
 }
+
+// https://medium.com/hannah-lin/%E6%BC%94%E7%AE%97%E6%B3%95%E7%AD%86%E8%A8%98-two-pointer-prefix-sum-167dd0ecb92c
+// https://hackmd.io/@SupportCoding/Two_Pointers
