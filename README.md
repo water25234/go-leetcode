@@ -3,19 +3,26 @@
 ## Easy
 - 1 Two Sum By Array
 - 21 Merge Two Sorted Lists
+- 50 Pow(x, n)
 - 104 Maximum Depth of Binary Tree
 - 141 Linked List Cycle
+- 206 Reverse Linked List
+- 455 Assign Cookies
 - 696 Count Binary Substrings
 - 700 Search in a Binary Search Tree
+- 704 Binary Search
 - 872 Leaf-Similar Trees
 - 1009 Complement of Base 10 Integer
+- 3783 Mirror Distance of an Integer
 
 ## Medium
 - 2 Add Two Numbers By Linked List
 - 3 Longest Substring Without Repeating Characters
 - 19 Remove Nth Node From End of List
 - 33 Search in Rotated Sorted Array
+- 45 Jump Game II
 - 81 Search In Rotated Sorted Array II
+- 128 Longest Consecutive Sequence
 - 133 Clone Graph
 - 134 Gas Station
 - 150 Evaluate Reverse Polish Notation
@@ -23,6 +30,7 @@
 - 167 Two Sum II - Input Array Is Sorted
 - 200 Number of Islands
 - 437 Path Sum III
+- 435 Non-overlapping Intervals
 - 450 Delete Node in a BST
 - 1448 Count Good Nodes in Binary Tree
 - 1497 Check If Array Pairs Are Divisible by k
