@@ -18,6 +18,7 @@
 ## Medium
 - 2 Add Two Numbers By Linked List
 - 3 Longest Substring Without Repeating Characters
+- 5 Longest Palindromic Substring
 - 19 Remove Nth Node From End of List
 - 33 Search in Rotated Sorted Array
 - 45 Jump Game II
@@ -41,6 +42,11 @@
 
 
 
+## Category
+## Dynamic Programming（動態規劃）
+- 70 Climbing Stairs
+- 509 Fibonacci Number
+- 198 House Robber
 
 
 ---
