@@ -44,10 +44,14 @@
 
 ## Category
 ## Dynamic Programming（動態規劃）
+- 62 Unique Paths
 - 70 Climbing Stairs
 - 509 Fibonacci Number
 - 198 House Robber
+- 2061 Number of Spaces Cleaning Robot Cleaned
 
+## Greedy
+- Calculate Maximum Profit
 
 ---
 
